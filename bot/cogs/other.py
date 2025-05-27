@@ -9,7 +9,7 @@ class __MainOtherCog(Cog):
 
     @Cog.listener()
     async def on_ready(self) -> None:
-        print('I am ready!!!')
+        print('Bot launched!')
 
 
 def register_other_cogs(bot: Bot) -> None:

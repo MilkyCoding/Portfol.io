@@ -1,2 +1,8 @@
 # engine
 nextcord
+
+# other
+python-dotenv
+
+# database
+sqlalchemy
