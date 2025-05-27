@@ -58,4 +58,12 @@ Portfol.io помогает творческим людям, студентам,
 
 ---
 
+## Discord сервер
+
+Присоединяйтесь к нашему Discord серверу для тестировки, обсуждения и поддержки: [dsc.gg/milkycoding](https://dsc.gg/milkycoding)
+
+## Лицензия
+
+MIT
+
 > **Portfol.io** — ваше портфолио в Discord.
